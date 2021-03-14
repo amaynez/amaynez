@@ -1,9 +1,9 @@
-👋 Hi, I’m @amaynez
+@amaynez
 
-👀 I’m interested in machine learning and artificial intelligence, data science, python, Java, JavaScript, C# and C++.
+Interested in machine learning and artificial intelligence, data science, python, Java, JavaScript, C# and C++.
 
-🌱 I’m currently learning reinforcement learning.
+Currently learning reinforcement learning.
 
-💞️ I’m looking to collaborate on any project.
+Looking forward to collaborate on any project.
 
-📫 [Reach me](https://amaynez.github.io/home/#contact)
+[Reach me](https://amaynez.github.io/home/#contact)
