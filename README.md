@@ -6,4 +6,4 @@ Currently learning reinforcement learning.
 
 Looking forward to collaborate on any project.
 
-[[Reach me](https://amaynez.github.io/)
+[Reach me](https://amaynez.github.io/)
